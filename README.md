@@ -1,5 +1,5 @@
 # Trading bot
-It's a python bot that gets candlestick data from binance (official page https://www.binance.com/en) API and is able to perform a variety of algorithmic trading strategies. This bot also uses sentimental analysis and machine learning algorithms in order to make better trade decisions.  
+It's a python bot that gets candlestick data from binance API (official page https://binance-docs.github.io/apidocs/spot/en/#change-log) and is able to perform a variety of algorithmic trading strategies. This bot also uses sentimental analysis and machine learning algorithms in order to make better trade decisions.  
 This project uses the following github repo to get the data from the API: https://github.com/sammchardy/python-binance we are not related in any way, I use the module developed by him for simplicity. 
 
 ## Important
